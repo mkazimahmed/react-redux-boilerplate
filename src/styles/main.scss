@@ -1,0 +1,13 @@
+@import "_variables.scss";
+@import "../components/home/_home.scss";
+@import "../components/layout/_layout.scss";
+
+body {
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #323232;
+    background-color: #fff;
+    overflow-x: hidden;
+    overflow-y:auto;
+}
